@@ -1,0 +1,6 @@
+﻿  lab01.cpp
+C:\Users\ilya\source\repos\lab01\lab01\lab01.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilya\source\repos\lab01\lab01\lab01.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilya\source\repos\lab01\lab01\lab01.cpp(61,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\ilya\source\repos\lab01\lab01\lab01.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+  lab01.vcxproj -> C:\Users\ilya\source\repos\lab01\Debug\lab01.exe
